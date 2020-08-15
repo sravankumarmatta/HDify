@@ -6,4 +6,4 @@ To run the service: python app.py
 
 request url: http://localhost:5000/upload_image
 
-body: {image: image}
+body: {image: (img.png)}
